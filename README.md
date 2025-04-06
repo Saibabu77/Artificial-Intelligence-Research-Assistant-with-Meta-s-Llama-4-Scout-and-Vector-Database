@@ -4,6 +4,10 @@ This project is a full-stack pipeline to convert PDF documents into vector embed
 
 ---
 
+![image](https://github.com/user-attachments/assets/bb7fde83-d913-4abf-af7c-f10d45089dd2)
+
+
+
 ## What It Does
 
 - Loads and processes multiple PDF files from a directory
